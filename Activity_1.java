@@ -1,5 +1,12 @@
 
 	import java.util.Scanner;
+	
+	
+	/**
+* Name: Laurynn S. Codiñera
+* Section: Altruism
+* Year: 4th Year
+*/
 
 public class Main {
 	public static void main(String[] args) {
